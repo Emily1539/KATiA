@@ -7,3 +7,4 @@ katia.log.lck
 modules/*
 img-api
 node_modules
+.env
