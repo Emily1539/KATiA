@@ -1,0 +1,9 @@
+deploy.log
+katia.log
+database.json.enc35
+deploy.log.lck
+database.json.enc35.lck
+katia.log.lck
+modules/*
+img-api
+node_modules
