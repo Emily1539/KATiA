@@ -4,7 +4,8 @@ database.json.enc35
 deploy.log.lck
 database.json.enc35.lck
 katia.log.lck
-modules/*
+# modules/*
 img-api
 node_modules
 .env
+prompt.txt
